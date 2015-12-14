@@ -47,3 +47,6 @@ Examples:
 > ![](http://em.qbdp.me/unity/uipolygon/screen0.png)
 
 > ![](http://em.qbdp.me/unity/uipolygon/screen1.png)
+
+## Need help?
+Contact me [here](http://ciaccodavi.de/about)!
