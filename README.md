@@ -5,7 +5,7 @@ This is a graphic control for drawing polygons in the UI System.
 
 [UI > Extensions > Primitives > UI Polygon]
 
-I wrote this script as an addition to the extension project for the new Unity UI system mantained by ddreaper (https://bitbucket.org/ddreaper/unity-ui-extensions) and because I needed to draw an hexagon in one of my games ui.
+I wrote this script as an addition to the extension project for the new Unity UI system mantained by Simon "ddreaper" Jackson (https://bitbucket.org/ddreaper/unity-ui-extensions) and because I needed to draw an hexagon in one of my games ui.
 
 I really recommend to try out the [Unity UI Extensions](https://bitbucket.org/ddreaper/unity-ui-extensions), but this script works also on its own: just import it in your Unity project.
 
